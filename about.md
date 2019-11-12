@@ -1,15 +1,16 @@
 ---
 layout: page
-title: About
+title: Sobre
 permalink: /about/
 ---
 
-Some information about you!
+Um blog que traz conteúdo exclusivo para pessoas que querem se aperfeiçoar em tomada de decisão baseada em dados. Aqui você vai encontrar artigos, ferramentas, cursos e muito material a respeito de ciência de dados, visualização de dados, análises e estratégia.
 
-### More Information
+A ideia é transmitir uma linguagem é de fácil entendimento, desmistificando termos muitas vezes complexos para muitos e ser um facilitador para esclarecer assuntos do universo da ciência de dados.
 
-A place to include any other types of information that you'd like to include about yourself.
+Tenha o Viver de Dados como sua newsletter semanal e mantenha-se atualizado com uma dose direta ao ponto na sua caixa de e-mails.
 
-### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+### Envie um e-mail
+
+[gabriel@viverdedados.com](mailto:gabriel@viverdedados.com)
